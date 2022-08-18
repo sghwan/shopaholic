@@ -34,6 +34,5 @@ SHOPAHOLIC은 온라인 사용자들을 위한 기업 과제 형식의 웹 쇼�
 | ------ |
 | 🗒[**기능 정리**](https://github.com/sghwan/shopaholic/wiki/service-feature) | 
 | 📋[**스토리보드**](https://github.com/sghwan/shopaholic/wiki/service-frame) | 
-| 🧰[**ERD**](https://github.com/TeamGada/gada/wiki/ERD) |  
 
 
