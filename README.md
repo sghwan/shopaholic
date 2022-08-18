@@ -32,7 +32,7 @@
 | Resource | 
 | ------ |
 | 💻[**API**](https://github.com/TeamGada/gada/wiki/API) | 
-| 🗒[**기능 정리**](https://github.com/TeamGada/gada/wiki/%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC) | 
+| 🗒[**기능 정리**](https://github.com/sghwan/shopaholic/wiki/service-feature) | 
 | 📋[**스토리보드**](https://github.com/TeamGada/gada/wiki/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C) | 
 | 🧰[**ERD**](https://github.com/TeamGada/gada/wiki/ERD) |  
 | 🚂[서비스 구조도](https://github.com/TeamGada/gada/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%8F%84) | 
