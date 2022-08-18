@@ -1,61 +1,39 @@
-# 쇼핑몰 웹 서비스 프로젝트
+<div align="center">
+  <img width='55%' src='https://user-images.githubusercontent.com/78450157/185295480-5660eb01-11de-4149-a563-3e2ec13a0b73.png'/>
+</div>
 
-제품들을 조회하고, 장바구니에 추가하고, 또 주문을 할 수 있는 쇼핑몰 웹 서비스 제작 프로젝트입니다. <br />
-**웹 구현 예시** (링크는 프로젝트 기간에만 유효합니다)
+<br/>
 
-### http://shopping-demo.elicecoding.com/
+<div align='center'>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=fff"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=fff"/>
+</div>
 
-<br>
+<br/>
 
-** 핵심 기능은 하기입니다. (이외에도 더 있으며, 추가 안내 될 프로젝트 평가기준표에서 구체화될 예정입니다.) <br>
-1. 회원가입, 로그인, 회원정보 수정 등 **유저 정보 관련 CRUD** 
-2. **제품 목록**을 조회 및, **제품 상세 정보**를 조회 가능함. 
-3. 장바구니에 제품을 추가할 수 있으며, **장바구니에서 CRUD** 작업이 가능함.
-4. 장바구니는 서버 DB가 아닌, 프론트 단에서 저장 및 관리됨 (localStorage, indexedDB 등)
-5. 장바구니에서 주문을 진행하며, **주문 완료 후 조회 및 삭제**가 가능함.
+## SHOPAHOLIC
 
-## 주요 사용 기술
 
-### 1. 프론트엔드
+## 📰 서비스 기획 의도
 
-- **Vanilla javascript**, html, css (**Bulma css**)
-- Font-awesome 
-- Daum 도로명 주소 api 
-- 이외
 
-### 2. 백엔드 
-
-- **Express** (nodemon, babel-node로 실행됩니다.)
-- Mongodb, Mongoose
-- cors
-- 이외
-
-## 폴더 구조
-- 프론트: `src/views` 폴더 
-- 백: src/views 이외 폴더 전체
-- 실행: **프론트, 백 동시에, express로 실행**
+## 🙂 팀원소개
+| 김단헌 | 남연진 | 박재현 | 서경환 | 안소희 |
+| --------- | -------- | -------- | -------- | -------- |
+| 프론트 | 프론트  | 프론트 | 백엔드 | 백엔드 |
+| 사용자/관리자<br>상품/카테고리 | 장바구니<br>주문/결제<br>주문목록 | 메인페이지<br>상품목록<br>상세 리뷰/평점 | 상품 API<br>카테고리 API<br>결제 API | 사용자/관리자<br>리뷰/평점 API |
 
 
 
-## 설치 방법
+## 📌 Learn More
 
-1. **.env 파일 설정 (MONGODB_URL 환경변수를, 개인 로컬 혹은 Atlas 서버 URL로 설정해야 함)**
+| Resource | 
+| ------ |
+| 💻[**API**](https://github.com/TeamGada/gada/wiki/API) | 
+| 🗒[**기능 정리**](https://github.com/TeamGada/gada/wiki/%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC) | 
+| 📋[**스토리보드**](https://github.com/TeamGada/gada/wiki/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C) | 
+| 🧰[**ERD**](https://github.com/TeamGada/gada/wiki/ERD) |  
+| 🚂[서비스 구조도](https://github.com/TeamGada/gada/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%8F%84) | 
 
-2. express 실행
-
-```bash
-# npm 을 쓰는 경우 
-npm install
-npm run start
-
-# yarn 을 쓰는 경우
-yarn
-yarn start
-```
-
-<br>
-
----
-
-본 프로젝트에서 제공하는 모든 코드 등의는 저작권법에 의해 보호받는 ㈜엘리스의 자산이며, 무단 사용 및 도용, 복제 및 배포를 금합니다.
-Copyright 2022 엘리스 Inc. All rights reserved.
