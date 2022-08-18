@@ -14,10 +14,11 @@
 <br/>
 
 ## SHOPAHOLIC
+SHOPAHOLIC은 온라인 사용자들을 위한 기업 과제 형식의 웹 쇼핑몰 서비스 개발 프로젝트 입니다.
 
-
-## 📰 서비스 기획 의도
-
+## 📰 서비스 
+1. 여러 상품을 카테고리별로 손쉽게 쇼핑을 즐기도록 구성했습니다.
+2. 인기 있는 상품을 볼 수 있도록 리뷰와 평점 기능을 구현했습니다.
 
 ## 🙂 팀원소개
 | 김단헌 | 남연진 | 박재현 | 서경환 | 안소희 |
@@ -31,9 +32,8 @@
 
 | Resource | 
 | ------ |
-| 💻[**API**](https://github.com/TeamGada/gada/wiki/API) | 
 | 🗒[**기능 정리**](https://github.com/sghwan/shopaholic/wiki/service-feature) | 
 | 📋[**스토리보드**](https://github.com/sghwan/shopaholic/wiki/service-frame) | 
 | 🧰[**ERD**](https://github.com/TeamGada/gada/wiki/ERD) |  
-| 🚂[서비스 구조도](https://github.com/TeamGada/gada/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%8F%84) | 
+
 
